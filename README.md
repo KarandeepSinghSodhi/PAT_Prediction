@@ -34,10 +34,3 @@ This project focuses on predictive modeling and financial forecasting to better 
 - **/data**: Contains preprocessed datasets and any auxiliary files used in analysis.
 - **/reports**: Documentation and final reports for each phase, providing a comprehensive overview of our findings and insights.
 
-## How to Run
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/Wall-Street-Financial-Forecasting.git
-   ```
-2. Navigate to the notebooks directory and follow the README instructions within each notebook to reproduce the results.
