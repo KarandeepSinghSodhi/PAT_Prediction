@@ -20,7 +20,7 @@ Portfolio Optimization Using Financial Metrics
 Applying ML-driven insights to create optimized portfolios, maximizing annualized returns while controlling risk.
 Data Source: yfinance API for real-time financial data.
 Models used: Monte Carlo simulations and mean-variance optimization techniques for robust portfolio selection.
-Repository Structure
+Repository Structure \n
 /notebooks: Jupyter notebooks containing code for each research phase, detailing the methodology and findings at each step.
 /data: Contains preprocessed datasets and any auxiliary files used in analysis.
 /reports: Documentation and final reports for each phase, providing a comprehensive overview of our findings and insights.
