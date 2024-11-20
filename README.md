@@ -1,4 +1,4 @@
-# PAT_Preduction
+# PAT_Prediction
 Here's a revised README for your GitHub repository, emphasizing a research focus:
 
 ---
